@@ -7,6 +7,10 @@ If you are interested in this game, then feel free to give it a "Star" or "watch
 If you want to contribute to this Project, feel free to make a Pull Request with your desired changes.
 [More...](https://github.com/TheBusyBiscuit/Slimefun5/blob/master/CONTRIBUTING.md)
 
+## Ways to contribute
+
+* ### [Localizations](https://github.com/TheBusyBiscuit/Slimefun5/tree/master/Localization)
+
 ## About this Game
 This game (working title: "Slimefun 5", no official name chosen yet) is a 2D Sandbox game that borrows many mechanics from my former Bukkit Plugin "Slimefun 4" and ports them into their own game.
 
