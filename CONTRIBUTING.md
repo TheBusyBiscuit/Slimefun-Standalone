@@ -13,6 +13,7 @@ Rules for posting an Issue on GitHub:
 
 1. This Issue Section is ONLY for Issues / Suggestions related to this Game.
 2. Only post a Bug Report if you own a copy or dev build of the game.
+3. When filing a Bug Report, please attach your Build ID and make sure you are running the latest Build available.
 
 Your Issue will be CLOSED WITHOUT WARNING if we think you violated these Rules.
 
