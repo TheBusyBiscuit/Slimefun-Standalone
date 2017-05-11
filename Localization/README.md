@@ -21,6 +21,8 @@ Example
 item.diamond.name=Diamant
 ```
 
+All available keys can be found inside the file [english.lang](https://github.com/TheBusyBiscuit/Slimefun5/blob/master/Localization/english.lang)
+
 ## Submit your Additions / Changes
 
 1. Fork this Project
