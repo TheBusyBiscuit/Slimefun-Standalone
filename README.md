@@ -12,4 +12,5 @@ This game (working title: "Slimefun 5", no official name chosen yet) is a 2D San
 
 ## Licensing
 This game is licensed under "All Rights Reserved" and is NOT open-source.
-Some assets (such as Localization files) are released under the [Creative Commons Attribution 4.0 License](https://github.com/TheBusyBiscuit/Slimefun5/blob/master/LICENSE.md)
+Some of the game's assets (such as Localization files) are uploaded into this Repository and released under the [Creative Commons Attribution 4.0 License](https://github.com/TheBusyBiscuit/Slimefun5/blob/master/LICENSE.md).
+Therefore all assets in this Repository are open-source.
