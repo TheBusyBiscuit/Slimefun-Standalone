@@ -7,6 +7,10 @@ We appreciate any help we can get to expand our Localization Database and make t
 
 ```
 # (English Language Name) / (Localized Language Name)
+#
+# Authors:
+# (Author)
+# ...
 
 ## (Category Name)
 key=value
@@ -16,6 +20,9 @@ Example
 
 ```
 # German / Deutsch
+#
+# Authors:
+# TheBusyBiscuit
 
 ## Items
 item.diamond.name=Diamant
