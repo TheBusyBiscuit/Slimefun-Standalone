@@ -21,4 +21,4 @@ Your Issue will be CLOSED WITHOUT WARNING if we think you violated these Rules.
 
 Guidelines for making a Pull Request on GitHub:
 
-1. Please try to keep the localization files simple and understandable, long words like "Kraftfahrzeug-Haftpflichtversicherung" may be accurate but not reasonable for tooltips in a vide game.
+1. Please try to keep the localization files simple and understandable, long words like "Kraftfahrzeug-Haftpflichtversicherung" may be accurate but probably not that reasonable for tooltips in a video game.
