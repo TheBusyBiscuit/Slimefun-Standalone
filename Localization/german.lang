@@ -8,6 +8,7 @@ item.generic_dirt.name=Erde
 item.generic_stone.name=Stein
 item.generic_ore_iron.name=Eisenerz
 item.generic_ore_silver.name=Silbererz
+item.generic_ore_magnetite.name=Magnetiterz
 
 ## Inventories
 gui.inventory.player=Inventar
