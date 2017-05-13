@@ -11,3 +11,4 @@ item.generic_ore_silver.name=Silbererz
 
 ## Inventories
 gui.inventory.player=Inventar
+gui.inventory.equipment=Ausrüstung
