@@ -13,3 +13,6 @@ item.generic_ore_magnetite.name=Magnetite Ore
 ## Inventories
 gui.inventory.player=Inventory
 gui.inventory.equipment=Equipment
+
+## Entities
+entity.DroppedItem.name=Dropped Item
