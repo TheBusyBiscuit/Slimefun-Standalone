@@ -13,7 +13,7 @@ item.generic_ore_magnetite.name=Magnetiterz
 ## Inventories
 gui.inventory.player=Inventar
 gui.inventory.equipment=Ausrüstung
-gui.slot.equipment.drill=Bohrer Ausrüstungsplatz
+gui.slot.equipment.drill=Bohrer-Ausrüstungsplatz
 
 ## Entities
 entity.DroppedItem.name=Gegenstand
