@@ -1,0 +1,10 @@
+<Theme>
+	<Name>Regular</Name>
+	<Foreground>#000000</Foreground>
+	<Background>#FFFFFF</Background>
+	<Selection>#44444499</Selection>
+	<Caret>#000000</Caret>
+	<Comment>#29A063</Comment>
+	<String>#BBBBBB</String>
+	<Expression>#1E35CC</Expression>
+</Theme>
