@@ -8,5 +8,6 @@
 	<String>#BBBBBB</String>
 	<Character>#1E35CC</Character>
 	<Number>#EC691E</Number>
+	<Boolean>#EC691E</Boolean>
 	<Expression>#1E35CC</Expression>
 </Theme>
