@@ -1,0 +1,10 @@
+<Theme>
+	<Name>Sunny Beach</Name>
+	<Foreground>#F8E1AA</Foreground>
+	<Background>#000000</Background>
+	<Selection>#527D5D99</Selection>
+	<Caret>#F8E1AA</Caret>
+	<Comment>#83786E</Comment>
+	<String>#D6C248</String>
+	<Expression>#E79E3C</Expression>
+</Theme>

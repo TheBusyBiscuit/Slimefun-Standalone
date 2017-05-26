@@ -1,0 +1,10 @@
+<Theme>
+	<Name>Atom</Name>
+	<Foreground>#A5ACBA</Foreground>
+	<Background>#282C34</Background>
+	<Selection>#88440099</Selection>
+	<Caret>#A5ACBA</Caret>
+	<Comment>#616161</Comment>
+	<String>#92BC75</String>
+	<Expression>#C678DD</Expression>
+</Theme>
