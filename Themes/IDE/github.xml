@@ -1,0 +1,14 @@
+<Theme>
+	<Name>GitHub</Name>
+	<Foreground>#24292E</Foreground>
+	<Background>#FFFFFF</Background>
+	<Selection>#0000FF77</Selection>
+	<Caret>#000000</Caret>
+	<Comment>#969896</Comment>
+	<String>#183691</String>
+	<Character>#24292E</Character>
+	<Number>#0086B3</Number>
+	<Boolean>#0086B3</Boolean>
+	<Expression>#A71D5D</Expression>
+	<Button>#E0E0E0</Button>
+</Theme>
