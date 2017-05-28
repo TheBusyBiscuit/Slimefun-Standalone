@@ -1,0 +1,20 @@
+# Ukrainian / Українська
+#
+# Authors: / Автори:
+# TheBusyBiscuit, SoSeDiK
+
+## Items (Names) / Предмети (назви)
+item.generic_dirt.name=Земля
+item.generic_stone.name=Камінь
+item.generic_ore_iron.name=Залізна руда
+item.generic_ore_silver.name=Срібна руда
+item.generic_ore_magnetite.name=Магнетитова руда
+
+## Inventories / Інвентарі
+gui.inventory.player=Інвентар
+gui.inventory.equipment=Спорядження
+gui.slot.equipment.drill=Слот для дрилі
+gui.tooltip.more=Утримуйте "Shift" для більшої інформації...
+
+## Entities / Істоти
+entity.DroppedItem.name=Кинутий предмет
