@@ -7,7 +7,11 @@
 item.generic_dirt.name=Dirt
 item.generic_stone.name=Stone
 item.generic_ore_iron.name=Iron Ore
+item.generic_ore_copper.name=Copper Ore
+item.generic_ore_tin.name=Tin Ore
 item.generic_ore_silver.name=Silver Ore
+item.generic_ore_zinc.name=Zinc Ore
+item.generic_ore_aluminum.name=Aluminum Ore
 item.generic_ore_magnetite.name=Magnetite Ore
 
 ## Inventories
