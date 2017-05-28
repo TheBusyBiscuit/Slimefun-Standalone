@@ -1,7 +1,7 @@
 # Ukrainian / Українська
 #
 # Authors: / Автори:
-# TheBusyBiscuit, SoSeDiK
+# SoSeDiK
 
 ## Items (Names) / Предмети (назви)
 item.generic_dirt.name=Земля
