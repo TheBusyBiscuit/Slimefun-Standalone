@@ -2,7 +2,7 @@
 # Russian / Русский
 #
 # Authors: / Авторы:
-# TheBusyBiscuit, SoSeDiK
+# SoSeDiK
 
 ## Items (Names) / Предметы (названия)
 item.generic_dirt.name=Земля
