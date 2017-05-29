@@ -1,4 +1,3 @@
-
 # Russian / Русский
 #
 # Authors: / Авторы:
@@ -8,7 +7,11 @@
 item.generic_dirt.name=Земля
 item.generic_stone.name=Камень
 item.generic_ore_iron.name=Железная руда
+item.generic_ore_copper.name=Медная руда
+item.generic_ore_tin.name=Оловянная руда
 item.generic_ore_silver.name=Серебряная руда
+item.generic_ore_zinc.name=Цинковая руда
+item.generic_ore_aluminum.name=Алюминиевая руда
 item.generic_ore_magnetite.name=Магнетитовая руда
 
 ## Inventories / Инвентари
