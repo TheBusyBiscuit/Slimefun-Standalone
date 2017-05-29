@@ -21,4 +21,4 @@ gui.slot.equipment.drill=Drill Slot
 gui.tooltip.more=Giữ "Shift" để xem thêm...
 
 ## Entities
-entity.DroppedItem.name=Dropped Item
+entity.DroppedItem.name=Vật Phẩm Đã Rơi
