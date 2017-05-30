@@ -1,0 +1,24 @@
+# Vietnamese / Tiếng Việt
+#
+# Authors:
+# TCSlender
+
+## Items (Names)
+item.generic_dirt.name=Đất
+item.generic_stone.name=Đá
+item.generic_ore_iron.name=Quặng Sắt
+item.generic_ore_copper.name=Quặng Đồng
+item.generic_ore_tin.name=Quặng Thiết
+item.generic_ore_silver.name=Quặng Bạc
+item.generic_ore_zinc.name=Quặng Kẽm
+item.generic_ore_aluminum.name=Quặng Nhôm
+item.generic_ore_magnetite.name=Quặng Từ Thiết
+
+## Inventories
+gui.inventory.player=Túi Đồ
+gui.inventory.equipment=Trang Bị
+gui.slot.equipment.drill=Lỗ Khoan
+gui.tooltip.more=Giữ "Shift" để xem thêm...
+
+## Entities
+entity.DroppedItem.name=Vật Phẩm Đã Rơi
