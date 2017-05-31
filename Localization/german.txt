@@ -16,6 +16,7 @@ item.generic_ore_magnetite.name=Magnetiterz
 
 ## Inventories
 gui.inventory.player=Inventar
+gui.inventory.crafting=Herstellung
 gui.inventory.equipment=Ausrüstung
 gui.slot.equipment.drill=Bohrer-Ausrüstungsplatz
 gui.tooltip.more=Halte "Shift" für mehr Infos...
