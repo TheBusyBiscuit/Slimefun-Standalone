@@ -13,6 +13,7 @@ item.generic_ore_silver.name=Silver Ore
 item.generic_ore_zinc.name=Zinc Ore
 item.generic_ore_aluminum.name=Aluminum Ore
 item.generic_ore_magnetite.name=Magnetite Ore
+item.generic_workbench.name=Workbench
 
 ## Inventories
 gui.inventory.player=Inventory
