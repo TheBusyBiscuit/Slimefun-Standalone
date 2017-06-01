@@ -16,6 +16,7 @@ item.generic_ore_magnetite.name=Магнетитова руда
 
 ## Inventories / Інвентарі
 gui.inventory.player=Інвентар
+gui.inventory.crafting=Майстрування
 gui.inventory.equipment=Спорядження
 gui.slot.equipment.drill=Слот для дрилі
 gui.tooltip.more=Утримуйте "Shift" для більшої інформації...
