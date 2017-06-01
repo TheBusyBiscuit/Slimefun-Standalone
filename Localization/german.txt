@@ -13,7 +13,9 @@ item.generic_ore_silver.name=Silbererz
 item.generic_ore_zinc.name=Zinkerz
 item.generic_ore_aluminum.name=Aluminiumerz
 item.generic_ore_magnetite.name=Magnetiterz
+item.generic_coal.name=Kohle
 item.generic_workbench.name=Werkbank
+item.generic_smeltery.name=Schmelzofen
 
 ## Inventories
 gui.inventory.player=Inventar
