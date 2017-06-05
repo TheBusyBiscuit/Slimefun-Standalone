@@ -20,6 +20,7 @@ item.generic_smeltery.name=Плавильня
 ## Inventories / Інвентарі
 gui.inventory.player=Інвентар
 gui.inventory.crafting=Майстрування
+gui.inventory.smeltery=Виплавка
 gui.inventory.equipment=Спорядження
 gui.slot.equipment.drill=Слот для дрилі
 gui.tooltip.more=Утримуйте "Shift" для більшої інформації...
