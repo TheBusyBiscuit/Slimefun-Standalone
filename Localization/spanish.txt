@@ -1,0 +1,29 @@
+# Spanish / Español
+#
+# Authors:
+# CypherNet
+
+## Items (Names)
+item.generic_dirt.name=Tierra
+item.generic_stone.name=Piedra
+item.generic_ore_iron.name=Mena de Hierro
+item.generic_ore_copper.name=Mena de Cobre
+item.generic_ore_tin.name=Mena de Estaño
+item.generic_ore_silver.name=Mena de Plata
+item.generic_ore_zinc.name=Mena de Zinc
+item.generic_ore_aluminum.name=Mena de Aluminio
+item.generic_ore_magnetite.name=Mena de Magnetita
+item.generic_coal.name=Carbón
+item.generic_workbench.name=Banco de Trabajo
+item.generic_smeltery.name=Taller de Fundición
+
+## Inventories
+gui.inventory.player=Inventario
+gui.inventory.crafting=Creación
+gui.inventory.smeltery=Fundición
+gui.inventory.equipment=Equipamiento
+gui.slot.equipment.drill=Ranura para Equipo de perforación
+gui.tooltip.more=Mantenga presionado "Shift" para mas Info...
+
+## Entities
+entity.DroppedItem.name=Elemento arrojado
