@@ -1,0 +1,29 @@
+# Korean / 한국어
+#
+# 저자:
+# crston
+
+## Items (Names)
+item.generic_dirt.name=흙
+item.generic_stone.name=돌
+item.generic_ore_iron.name=철광석
+item.generic_ore_copper.name=구리 광석
+item.generic_ore_tin.name=주석 광석
+item.generic_ore_silver.name=은광석
+item.generic_ore_zinc.name=아연 광석
+item.generic_ore_aluminum.name=알루미늄 광석
+item.generic_ore_magnetite.name=자철광
+item.generic_coal.name=석탄
+item.generic_workbench.name=작업대
+item.generic_smeltery.name=제련소
+
+## Inventories
+gui.inventory.player=인벤토리
+gui.inventory.crafting=제작
+gui.inventory.smeltery=제련
+gui.inventory.equipment=장비
+gui.slot.equipment.drill=드릴 슬릇
+gui.tooltip.more="쉬프트" 를 사용하여 자세한 것을...
+
+## Entities
+entity.DroppedItem.name=떨어진 아이템
