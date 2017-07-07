@@ -1,0 +1,29 @@
+# Chinese / 中文 (简体)
+#
+# Authors:
+# StarWish_
+
+## Items (Names)
+item.generic_dirt.name=泥土
+item.generic_stone.name=石头
+item.generic_ore_iron.name=铁矿
+item.generic_ore_copper.name=铜矿
+item.generic_ore_tin.name=锡矿
+item.generic_ore_silver.name=银矿
+item.generic_ore_zinc.name=锌矿
+item.generic_ore_aluminum.name=铝矿
+item.generic_ore_magnetite.name=磁铁矿
+item.generic_coal.name=煤炭
+item.generic_workbench.name=工作台
+item.generic_smeltery.name=冶炼厂
+
+## Inventories
+gui.inventory.player=物品栏
+gui.inventory.crafting=合成
+gui.inventory.smeltery=冶炼
+gui.inventory.equipment=装备
+gui.slot.equipment.drill=钻槽
+gui.tooltip.more=按住 "Shift" 以了解更多...
+
+## Entities
+entity.DroppedItem.name=掉落的物品
