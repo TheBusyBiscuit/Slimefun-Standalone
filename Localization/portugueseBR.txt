@@ -1,0 +1,29 @@
+# Portuguese-BR / Português-BR
+#
+# Authors:
+# _Folkes_(aka Foyu)
+
+## Items (Names)
+item.generic_dirt.name=Terra
+item.generic_stone.name=Pedra
+item.generic_ore_iron.name=Minério de Ferro
+item.generic_ore_copper.name=Minério de Cobre
+item.generic_ore_tin.name=Minério de Estanho
+item.generic_ore_silver.name=Minério de Prata
+item.generic_ore_zinc.name=Minério de Zinco
+item.generic_ore_aluminum.name=Minério de Alumínio
+item.generic_ore_magnetite.name=Minério de Magnetita
+item.generic_coal.name=Carvão
+item.generic_workbench.name=Bancada de Trabalho
+item.generic_smeltery.name=Oficina de Fundição
+
+## Inventories
+gui.inventory.player=Inventário
+gui.inventory.crafting=Criação
+gui.inventory.smeltery=Fundição
+gui.inventory.equipment=Equipamento
+gui.slot.equipment.drill=Ranhura para Broca
+gui.tooltip.more=Segure "Shift" para mais informações...
+
+## Entities
+entity.DroppedItem.name=Item Descartado
