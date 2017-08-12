@@ -1,0 +1,29 @@
+# Hungarian / Magyar
+#
+# Authors:
+# andris155
+
+## Items (Names)
+item.generic_dirt.name=Föld
+item.generic_stone.name=Kő
+item.generic_ore_iron.name=Vasérc
+item.generic_ore_copper.name=Rézérc
+item.generic_ore_tin.name=Ón Érc
+item.generic_ore_silver.name=Ezüstérc
+item.generic_ore_zinc.name=Cinkérc
+item.generic_ore_aluminum.name=Alumíniumérc
+item.generic_ore_magnetite.name=Magnetitérc
+item.generic_coal.name=Szén
+item.generic_workbench.name=Barkácsasztal
+item.generic_smeltery.name=Kohó
+
+## Inventories
+gui.inventory.player=Táska
+gui.inventory.crafting=Barkácsolás
+gui.inventory.smeltery=Olvasztás
+gui.inventory.equipment=Felszerelés
+gui.slot.equipment.drill=Fúrónyílás
+gui.tooltip.more=Tartsd lenyomva a "Shift"-t a további információkért ...
+
+## Entities
+entity.DroppedItem.name=Kidobott Tárgy
