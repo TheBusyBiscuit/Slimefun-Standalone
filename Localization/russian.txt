@@ -13,9 +13,14 @@ item.generic_ore_silver.name=Серебряная руда
 item.generic_ore_zinc.name=Цинковая руда
 item.generic_ore_aluminum.name=Алюминиевая руда
 item.generic_ore_magnetite.name=Магнетитовая руда
+item.generic_coal.name=Уголь
+item.generic_workbench.name=Верстак
+item.generic_smeltery.name=Плавильня
 
 ## Inventories / Инвентари
 gui.inventory.player=Инвентарь
+gui.inventory.crafting=Создание
+gui.inventory.smeltery=Выплавка
 gui.inventory.equipment=Снаряжение
 gui.slot.equipment.drill=Слот для дрели
 gui.tooltip.more=Удерживайте "Shift" для большей информации...
