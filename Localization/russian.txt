@@ -18,7 +18,7 @@ item.generic_ore_magnetite.name=Магнетитовая руда
 gui.inventory.player=Инвентарь
 gui.inventory.equipment=Снаряжение
 gui.slot.equipment.drill=Слот для дрели
-gui.tooltip.more=Удерживайте "Shift" для большей информации...
+gui.tooltip.more=Удерживайте "Shift" для подробной информации...
 
 ## Entities / Сущности
 entity.DroppedItem.name=Брошенный предмет
