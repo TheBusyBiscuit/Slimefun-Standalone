@@ -1,0 +1,29 @@
+# Armenian / Հայերեն
+#
+# Authors: / Հեղինակները:
+# TSEngineer
+
+## Items (Names) / Առարկաներ (անվանումները)
+item.generic_dirt.name=Երկիր
+item.generic_stone.name=Քար
+item.generic_ore_iron.name=Iron ore
+item.generic_ore_copper.name=Պղնձե Հանքաքարի
+item.generic_ore_tin.name=Անագե հանքաքար
+item.generic_ore_silver.name=Արծաթե հանքաքար
+item.generic_ore_zinc.name=Ցինկե հանքաքարի
+item.generic_ore_aluminum.name=Ալյումինե հանքաքար
+item.generic_ore_magnetite.name=Մագնիս հանքաքար
+item.generic_coal.name=Ածուխ
+item.generic_workbench.name=Աշխատանքային սեղան
+item.generic_smeltery.name=Ձուլման, որ գործարան
+
+## Inventories / Կոնտեյներներ
+gui.inventory.player=Կոնտեյներ
+gui.inventory.crafting=Ստեղծումը
+gui.inventory.smeltery=Պատրաստում ՝ 
+gui.inventory.equipment=Հանդերձում
+gui.slot.equipment.drill=Անցք խաղերի համար
+gui.tooltip.more=Պահել "Shift" մանրամասն տեղեկությունների համար
+
+## Entities / Сущности
+entity.DroppedItem.name=Անջելինա առարկան
