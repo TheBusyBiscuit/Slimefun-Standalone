@@ -1,4 +1,4 @@
-# Russian / العربية
+# Arabic / العربية
 #
 # Authors: / الكتاب:
 # TSEngineer
