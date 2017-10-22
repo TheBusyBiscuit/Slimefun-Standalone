@@ -1,0 +1,29 @@
+# French / Français
+#
+# Authors: / Les auteurs:
+# TSEngineer
+
+## Items (Names) / Objets (de nom)
+item.generic_dirt.name=La terre
+item.generic_stone.name=Pierre
+item.generic_ore_iron.name=Le minerai de fer
+item.generic_ore_copper.name=Le minerai de cuivre
+item.generic_ore_tin.name=En étain, minerai
+item.generic_ore_silver.name=Le minerai d'argent
+item.generic_ore_zinc.name=Le minerai de zinc
+item.generic_ore_aluminum.name=Le minerai d'aluminium
+item.generic_ore_magnetite.name=Aimant de minerai
+item.generic_coal.name=Le charbon
+item.generic_workbench.name=Banc
+item.generic_smeltery.name=Fonderie
+
+## Inventories / L'inventaire des
+gui.inventory.player=L'inventaire
+gui.inventory.crafting=La création d'une
+gui.inventory.smeltery=La fonte
+gui.inventory.equipment=L'équipement
+gui.slot.equipment.drill=Fente pour perceuses
+gui.tooltip.more=Maintenez la touche "Shift" pour plus d'informations...
+
+## Entities / L'essence
+entity.DroppedItem.name=Jeté le sujet
