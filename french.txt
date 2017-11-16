@@ -1,0 +1,29 @@
+# French / Français
+#
+# Authors:
+# marinière
+
+## Items (Names)
+item.generic_dirt.name=Terre
+item.generic_stone.name=Pierre
+item.generic_ore_iron.name=Minerai de fer
+item.generic_ore_copper.name=Minerai de cuivre
+item.generic_ore_tin.name=Minerai d'étain
+item.generic_ore_silver.name=Minerai d'argent
+item.generic_ore_zinc.name=Minerai de zinc
+item.generic_ore_aluminum.name=Minerai d'aluminium
+item.generic_ore_magnetite.name=Minerai de magnétite
+item.generic_coal.name=Charbon
+item.generic_workbench.name=Établi
+item.generic_smeltery.name=Fonderie
+
+## Inventories
+gui.inventory.player=Inventaire
+gui.inventory.crafting=Fabrication
+gui.inventory.smeltery=Fondre
+gui.inventory.equipment=Équipement
+gui.slot.equipment.drill=Emplacement pour perceuse
+gui.tooltip.more=Maintenir "Shift" pour plus d'informations...
+
+## Entities
+entity.DroppedItem.name=Objet au sol
