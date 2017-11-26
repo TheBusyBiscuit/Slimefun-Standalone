@@ -1,0 +1,29 @@
+# Italian / Italiano
+#
+# Authors:
+# Redemption198
+
+## Items (Names)
+item.generic_dirt.name=Terra
+item.generic_stone.name=Pietra
+item.generic_ore_iron.name=Minerale di Ferro
+item.generic_ore_copper.name=Minerale di Rame
+item.generic_ore_tin.name=Minerale di Stagno
+item.generic_ore_silver.name=Minerale di Argento
+item.generic_ore_zinc.name=Minerale di Zinco
+item.generic_ore_aluminum.name=Minerale di Alluminio
+item.generic_ore_magnetite.name=Minerale di Magnetite
+item.generic_coal.name=Carbone
+item.generic_workbench.name=Banco da Lavoro
+item.generic_smeltery.name=Smeltery
+
+## Inventories
+gui.inventory.player=Inventario
+gui.inventory.crafting=Lavorazione
+gui.inventory.smeltery=Fondendo
+gui.inventory.equipment=Equipaggiamento
+gui.slot.equipment.drill=Slot per Trivella
+gui.tooltip.more=Tieni premuto 'shift' per ottenere più informazioni...
+
+## Entities
+entity.DroppedItem.name=Oggetto gettato
