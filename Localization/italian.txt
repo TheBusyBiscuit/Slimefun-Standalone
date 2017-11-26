@@ -15,7 +15,7 @@ item.generic_ore_aluminum.name=Minerale di Alluminio
 item.generic_ore_magnetite.name=Minerale di Magnetite
 item.generic_coal.name=Carbone
 item.generic_workbench.name=Banco da Lavoro
-item.generic_smeltery.name=Smeltery
+item.generic_smeltery.name=Fonderia
 
 ## Inventories
 gui.inventory.player=Inventario
