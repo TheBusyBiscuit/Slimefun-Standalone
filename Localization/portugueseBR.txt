@@ -4,18 +4,18 @@
 # _Folkes_(aka Foyu)
 
 ## Items (Names)
-item.generic_dirt.name=Terra
-item.generic_stone.name=Pedra
-item.generic_ore_iron.name=Minério de Ferro
-item.generic_ore_copper.name=Minério de Cobre
-item.generic_ore_tin.name=Minério de Estanho
-item.generic_ore_silver.name=Minério de Prata
-item.generic_ore_zinc.name=Minério de Zinco
-item.generic_ore_aluminum.name=Minério de Alumínio
-item.generic_ore_magnetite.name=Minério de Magnetita
-item.generic_coal.name=Carvão
-item.generic_workbench.name=Bancada de Trabalho
-item.generic_smeltery.name=Oficina de Fundição
+item.dirt.name=Terra
+item.stone.name=Pedra
+item.ore_iron.name=Minério de Ferro
+item.ore_copper.name=Minério de Cobre
+item.ore_tin.name=Minério de Estanho
+item.ore_silver.name=Minério de Prata
+item.ore_zinc.name=Minério de Zinco
+item.ore_aluminum.name=Minério de Alumínio
+item.ore_magnetite.name=Minério de Magnetita
+item.coal.name=Carvão
+item.workbench.name=Bancada de Trabalho
+item.smeltery.name=Oficina de Fundição
 
 ## Inventories
 gui.inventory.player=Inventário

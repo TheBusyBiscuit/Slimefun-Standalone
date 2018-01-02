@@ -4,18 +4,18 @@
 # TheBusyBiscuit
 
 ## Items (Names)
-item.generic_dirt.name=Erde
-item.generic_stone.name=Stein
-item.generic_ore_iron.name=Eisenerz
-item.generic_ore_copper.name=Kupfererz
-item.generic_ore_tin.name=Zinnerz
-item.generic_ore_silver.name=Silbererz
-item.generic_ore_zinc.name=Zinkerz
-item.generic_ore_aluminum.name=Aluminiumerz
-item.generic_ore_magnetite.name=Magnetiterz
-item.generic_coal.name=Kohle
-item.generic_workbench.name=Werkbank
-item.generic_smeltery.name=Schmelzofen
+item.dirt.name=Erde
+item.stone.name=Stein
+item.ore_iron.name=Eisenerz
+item.ore_copper.name=Kupfererz
+item.ore_tin.name=Zinnerz
+item.ore_silver.name=Silbererz
+item.ore_zinc.name=Zinkerz
+item.ore_aluminum.name=Aluminiumerz
+item.ore_magnetite.name=Magnetiterz
+item.coal.name=Kohle
+item.workbench.name=Werkbank
+item.smeltery.name=Schmelzofen
 
 ## Inventories
 gui.inventory.player=Inventar

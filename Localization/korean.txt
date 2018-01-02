@@ -4,18 +4,18 @@
 # crston
 
 ## Items (Names)
-item.generic_dirt.name=흙
-item.generic_stone.name=돌
-item.generic_ore_iron.name=철광석
-item.generic_ore_copper.name=구리 광석
-item.generic_ore_tin.name=주석 광석
-item.generic_ore_silver.name=은광석
-item.generic_ore_zinc.name=아연 광석
-item.generic_ore_aluminum.name=알루미늄 광석
-item.generic_ore_magnetite.name=자철광
-item.generic_coal.name=석탄
-item.generic_workbench.name=작업대
-item.generic_smeltery.name=제련소
+item.dirt.name=흙
+item.stone.name=돌
+item.ore_iron.name=철광석
+item.ore_copper.name=구리 광석
+item.ore_tin.name=주석 광석
+item.ore_silver.name=은광석
+item.ore_zinc.name=아연 광석
+item.ore_aluminum.name=알루미늄 광석
+item.ore_magnetite.name=자철광
+item.coal.name=석탄
+item.workbench.name=작업대
+item.smeltery.name=제련소
 
 ## Inventories
 gui.inventory.player=인벤토리

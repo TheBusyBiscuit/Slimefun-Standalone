@@ -4,7 +4,7 @@
 # aycgit
 
 ## Items (Names)
-item.generic_dirt.name=Aarde
-item.generic_stone.name=Steen
-item.generic_ore_iron.name=Ijzererts
-item.generic_ore_silver.name=Zilvererts
+item.dirt.name=Aarde
+item.stone.name=Steen
+item.ore_iron.name=Ijzererts
+item.ore_silver.name=Zilvererts

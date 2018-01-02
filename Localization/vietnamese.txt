@@ -4,15 +4,15 @@
 # TCSlender
 
 ## Items (Names)
-item.generic_dirt.name=Đất
-item.generic_stone.name=Đá
-item.generic_ore_iron.name=Quặng Sắt
-item.generic_ore_copper.name=Quặng Đồng
-item.generic_ore_tin.name=Quặng Thiết
-item.generic_ore_silver.name=Quặng Bạc
-item.generic_ore_zinc.name=Quặng Kẽm
-item.generic_ore_aluminum.name=Quặng Nhôm
-item.generic_ore_magnetite.name=Quặng Từ Thiết
+item.dirt.name=Đất
+item.stone.name=Đá
+item.ore_iron.name=Quặng Sắt
+item.ore_copper.name=Quặng Đồng
+item.ore_tin.name=Quặng Thiết
+item.ore_silver.name=Quặng Bạc
+item.ore_zinc.name=Quặng Kẽm
+item.ore_aluminum.name=Quặng Nhôm
+item.ore_magnetite.name=Quặng Từ Thiết
 
 ## Inventories
 gui.inventory.player=Túi Đồ

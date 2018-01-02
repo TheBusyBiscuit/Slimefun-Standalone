@@ -4,18 +4,18 @@
 # SoSeDiK
 
 ## Items (Names) / Предметы (названия)
-item.generic_dirt.name=Земля
-item.generic_stone.name=Камень
-item.generic_ore_iron.name=Железная руда
-item.generic_ore_copper.name=Медная руда
-item.generic_ore_tin.name=Оловянная руда
-item.generic_ore_silver.name=Серебряная руда
-item.generic_ore_zinc.name=Цинковая руда
-item.generic_ore_aluminum.name=Алюминиевая руда
-item.generic_ore_magnetite.name=Магнетитовая руда
-item.generic_coal.name=Уголь
-item.generic_workbench.name=Верстак
-item.generic_smeltery.name=Плавильня
+item.dirt.name=Земля
+item.stone.name=Камень
+item.ore_iron.name=Железная руда
+item.ore_copper.name=Медная руда
+item.ore_tin.name=Оловянная руда
+item.ore_silver.name=Серебряная руда
+item.ore_zinc.name=Цинковая руда
+item.ore_aluminum.name=Алюминиевая руда
+item.ore_magnetite.name=Магнетитовая руда
+item.coal.name=Уголь
+item.workbench.name=Верстак
+item.smeltery.name=Плавильня
 
 ## Inventories / Инвентари
 gui.inventory.player=Инвентарь

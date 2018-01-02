@@ -4,18 +4,18 @@
 # Redemption198
 
 ## Items (Names)
-item.generic_dirt.name=Terra
-item.generic_stone.name=Pietra
-item.generic_ore_iron.name=Minerale di Ferro
-item.generic_ore_copper.name=Minerale di Rame
-item.generic_ore_tin.name=Minerale di Stagno
-item.generic_ore_silver.name=Minerale di Argento
-item.generic_ore_zinc.name=Minerale di Zinco
-item.generic_ore_aluminum.name=Minerale di Alluminio
-item.generic_ore_magnetite.name=Minerale di Magnetite
-item.generic_coal.name=Carbone
-item.generic_workbench.name=Banco da Lavoro
-item.generic_smeltery.name=Fonderia
+item.dirt.name=Terra
+item.stone.name=Pietra
+item.ore_iron.name=Minerale di Ferro
+item.ore_copper.name=Minerale di Rame
+item.ore_tin.name=Minerale di Stagno
+item.ore_silver.name=Minerale di Argento
+item.ore_zinc.name=Minerale di Zinco
+item.ore_aluminum.name=Minerale di Alluminio
+item.ore_magnetite.name=Minerale di Magnetite
+item.coal.name=Carbone
+item.workbench.name=Banco da Lavoro
+item.smeltery.name=Fonderia
 
 ## Inventories
 gui.inventory.player=Inventario

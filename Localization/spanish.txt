@@ -4,18 +4,18 @@
 # CypherNet
 
 ## Items (Names)
-item.generic_dirt.name=Tierra
-item.generic_stone.name=Piedra
-item.generic_ore_iron.name=Mena de Hierro
-item.generic_ore_copper.name=Mena de Cobre
-item.generic_ore_tin.name=Mena de Estaño
-item.generic_ore_silver.name=Mena de Plata
-item.generic_ore_zinc.name=Mena de Zinc
-item.generic_ore_aluminum.name=Mena de Aluminio
-item.generic_ore_magnetite.name=Mena de Magnetita
-item.generic_coal.name=Carbón
-item.generic_workbench.name=Banco de Trabajo
-item.generic_smeltery.name=Taller de Fundición
+item.dirt.name=Tierra
+item.stone.name=Piedra
+item.ore_iron.name=Mena de Hierro
+item.ore_copper.name=Mena de Cobre
+item.ore_tin.name=Mena de Estaño
+item.ore_silver.name=Mena de Plata
+item.ore_zinc.name=Mena de Zinc
+item.ore_aluminum.name=Mena de Aluminio
+item.ore_magnetite.name=Mena de Magnetita
+item.coal.name=Carbón
+item.workbench.name=Banco de Trabajo
+item.smeltery.name=Taller de Fundición
 
 ## Inventories
 gui.inventory.player=Inventario
