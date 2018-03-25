@@ -28,7 +28,7 @@ Example
 item.diamond.name=Diamant
 ```
 
-All available keys can be found inside the file [english.txt](https://github.com/TheBusyBiscuit/Slimefun5/blob/master/Localization/english.txt)
+All available keys can be found inside the file [en_US.txt](https://github.com/TheBusyBiscuit/Slimefun5/blob/master/Language/en_US.txt)
 
 ## Submit your Additions / Changes
 
