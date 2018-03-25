@@ -5,6 +5,11 @@ We appreciate any help we can get to expand our Localization Database and make t
 
 ## File Layout
 
+File Name: (Language Code in lower case) _ (Country Code in upper case).txt
+
+Example: en_US.txt (English, United States)
+
+
 ```
 ## Metadata
 lang.name= (English Language Name) / (Localized Language Name)
