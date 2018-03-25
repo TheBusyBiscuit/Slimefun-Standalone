@@ -1,7 +1,6 @@
-# German / Deutsch
-#
-# Authors:
-# TheBusyBiscuit
+## Metadata
+lang.name=German / Deutsch
+lang.authors=TheBusyBiscuit
 
 ## Items (Names)
 item.dirt.name=Erde

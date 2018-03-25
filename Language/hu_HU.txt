@@ -1,7 +1,6 @@
-# Hungarian / Magyar
-#
-# Authors:
-# andris155
+## Metadata
+lang.name=Hungarian / Magyar
+lang.authors=andris155
 
 ## Items (Names)
 item.dirt.name=Föld

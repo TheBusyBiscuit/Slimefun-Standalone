@@ -1,7 +1,6 @@
-# Chinese / 中文 (简体)
-#
-# Authors:
-# StarWish_
+## Metadata
+lang.name=Chinese / 中文 (简体)
+lang.authors=StarWish_
 
 ## Items (Names)
 item.dirt.name=泥土

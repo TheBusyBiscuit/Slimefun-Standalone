@@ -1,7 +1,6 @@
-# Korean / 한국어
-#
-# 저자:
-# crston
+## Metadata
+lang.name=Korean / 한국어
+lang.authors=crston
 
 ## Items (Names)
 item.dirt.name=흙

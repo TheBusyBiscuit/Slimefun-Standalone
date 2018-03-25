@@ -1,7 +1,6 @@
-# Portuguese-BR / Português-BR
-#
-# Authors:
-# _Folkes_(aka Foyu)
+## Metadata
+lang.name=Portuguese-BR / Português-BR
+lang.authors=_Folkes_(aka Foyu)
 
 ## Items (Names)
 item.dirt.name=Terra

@@ -1,7 +1,6 @@
-# French / Français
-#
-# Authors:
-# marinière
+## Metadata
+lang.name=French / Français
+lang.authors=marinière
 
 ## Items (Names)
 item.dirt.name=Terre

@@ -1,7 +1,6 @@
-# Spanish / Español
-#
-# Authors:
-# CypherNet
+## Metadata
+lang.name=Spanish / Español
+lang.authors=CypherNet
 
 ## Items (Names)
 item.dirt.name=Tierra

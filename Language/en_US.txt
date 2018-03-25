@@ -1,7 +1,6 @@
-# English / English
-#
-# Authors:
-# TheBusyBiscuit
+## Metadata
+lang.name=English (US)
+lang.authors=TheBusyBiscuit
 
 ## Items (Names)
 item.dirt.name=Dirt

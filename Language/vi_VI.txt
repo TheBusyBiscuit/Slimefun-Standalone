@@ -1,7 +1,6 @@
-# Vietnamese / Tiếng Việt
-#
-# Authors:
-# TCSlender
+## Metadata
+lang.name=Vietnamese / Tiếng Việt
+lang.authors=TCSlender
 
 ## Items (Names)
 item.dirt.name=Đất

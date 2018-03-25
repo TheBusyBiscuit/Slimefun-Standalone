@@ -1,7 +1,6 @@
-# Italian / Italiano
-#
-# Authors:
-# Redemption198
+## Metadata
+lang.name=Italian / Italiano
+lang.authors=Redemption198
 
 ## Items (Names)
 item.dirt.name=Terra

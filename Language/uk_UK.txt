@@ -1,7 +1,6 @@
-# Ukrainian / Українська
-#
-# Authors: / Автори:
-# SoSeDiK
+## Metadata
+lang.name=Ukrainian / Українська
+lang.authors=SoSeDiK
 
 ## Items (Names) / Предмети (назви)
 item.dirt.name=Земля

@@ -1,7 +1,6 @@
-# Armenian / Հայերեն
-#
-# Authors: / Հեղինակները:
-# TSEngineer
+## Metadata
+lang.name=Armenian / Հայերեն
+lang.authors=TSEngineer
 
 ## Items (Names) / Առարկաներ (անվանումները)
 item.dirt.name=Երկիր
@@ -20,7 +19,7 @@ item.smeltery.name=Ձուլման, որ գործարան
 ## Inventories / Կոնտեյներներ
 gui.inventory.player=Կոնտեյներ
 gui.inventory.crafting=Ստեղծումը
-gui.inventory.smeltery=Պատրաստում ՝ 
+gui.inventory.smeltery=Պատրաստում ՝
 gui.inventory.equipment=Հանդերձում
 gui.slot.equipment.drill=Անցք խաղերի համար
 gui.tooltip.more=Պահել "Shift" մանրամասն տեղեկությունների համար

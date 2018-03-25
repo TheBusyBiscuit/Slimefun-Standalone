@@ -1,7 +1,6 @@
-# Dutch / Nederlands
-#
-# Authors:
-# aycgit
+## Metadata
+lang.name=Dutch / Nederlands
+lang.authors=aycgit
 
 ## Items (Names)
 item.dirt.name=Aarde

@@ -1,7 +1,6 @@
-# Russian / Русский
-#
-# Authors: / Авторы:
-# SoSeDiK
+## Metadata
+lang.name=Russian / Русский
+lang.authors=SoSeDiK
 
 ## Items (Names) / Предметы (названия)
 item.dirt.name=Земля
