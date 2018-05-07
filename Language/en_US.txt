@@ -15,7 +15,7 @@ item.ore_magnetite.name=Magnetite Ore
 item.coal.name=Coal
 item.workbench.name=Workbench
 item.smeltery.name=Smeltery
-item.drill_rusty=Rusty Drill
+item.drill_rusty.name=Rusty Drill
 
 ## Inventories
 gui.inventory.player=Inventory
