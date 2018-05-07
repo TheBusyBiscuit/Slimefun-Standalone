@@ -26,4 +26,4 @@ gui.tooltip.more=Hold "Shift" for more Info...
 gui.tooltip.equipment.drill=Equipment: Drill
 
 ## Entities
-entity.DroppedItem.name=Dropped Item
+entity.player.name=Player
