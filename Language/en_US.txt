@@ -15,14 +15,15 @@ item.ore_magnetite.name=Magnetite Ore
 item.coal.name=Coal
 item.workbench.name=Workbench
 item.smeltery.name=Smeltery
+item.drill_rusty=Rusty Drill
 
 ## Inventories
 gui.inventory.player=Inventory
 gui.inventory.crafting=Crafting
 gui.inventory.smeltery=Smelting
-gui.inventory.equipment=Equipment
-gui.slot.equipment.drill=Drill Slot
+
 gui.tooltip.more=Hold "Shift" for more Info...
+gui.tooltip.equipment.drill=Equipment: Drill
 
 ## Entities
 entity.DroppedItem.name=Dropped Item
