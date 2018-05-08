@@ -23,7 +23,7 @@ gui.inventory.crafting=Crafting
 gui.inventory.smeltery=Smelting
 
 gui.tooltip.more=Hold "Shift" for more Info...
-gui.tooltip.equipment.drill=Equipment: Drill
+gui.tooltip.equipment.drill=Equipment (Mining Drill)
 
 ## Entities
 entity.player.name=Player
