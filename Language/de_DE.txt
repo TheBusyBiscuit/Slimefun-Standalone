@@ -3,8 +3,9 @@ lang.name=German / Deutsch
 lang.authors=TheBusyBiscuit
 
 ## Items (Names)
-item.dirt.name=Erde
+item.dirt.name=Dreck
 item.stone.name=Stein
+
 item.ore_iron.name=Eisenerz
 item.ore_copper.name=Kupfererz
 item.ore_tin.name=Zinnerz
@@ -12,16 +13,22 @@ item.ore_silver.name=Silbererz
 item.ore_zinc.name=Zinkerz
 item.ore_aluminum.name=Aluminiumerz
 item.ore_magnetite.name=Magnetiterz
-item.coal.name=Kohle
+
 item.workbench.name=Werkbank
 item.smeltery.name=Schmelzofen
 
+item.drill_rusty.name=Rostiger Bohrkopf
+
+item.armor_rusty.name=Rostige Rüstungsplatte
+
 ## Inventories
 gui.inventory.player=Inventar
-gui.inventory.crafting=Herstellung
-gui.inventory.equipment=Ausrüstung
-gui.slot.equipment.drill=Bohrer-Ausrüstungsplatz
-gui.tooltip.more=Halte "Shift" für mehr Infos...
+gui.inventory.crafting=Werkbank
+gui.inventory.smeltery=Schmelzofen
+
+gui.tooltip.more=Halte "Shift" für mehr Information...
+gui.tooltip.equipment.drill=Ausrüstung (Bohrer)
+gui.tooltip.equipment.armor=Ausrüstung (Rüstungsplatte)
 
 ## Entities
-entity.DroppedItem.name=Gegenstand
+entity.player.name=Spieler
