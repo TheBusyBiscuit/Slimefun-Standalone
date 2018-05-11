@@ -1,6 +1,6 @@
 ## Metadata
 lang.name=Spanish / Español
-lang.authors=CypherNet y Lmmb74
+lang.authors=CypherNet,Lmmb74
 
 ## Items (Names)
 item.dirt.name=Tierra
@@ -19,7 +19,7 @@ item.smeltery.name=Taller de Fundición
 
 item.drill_rusty.name=Taladro Oxidado
 
-item.armor_rusty.name= Oxidada
+item.armor_rusty.name=Pechera Oxidada
 
 ## Inventories
 gui.inventory.player=Inventario
