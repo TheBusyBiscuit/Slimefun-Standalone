@@ -5,6 +5,7 @@ lang.authors=TheBusyBiscuit
 ## Items (Names)
 item.dirt.name=Dirt
 item.stone.name=Stone
+
 item.ore_iron.name=Iron Ore
 item.ore_copper.name=Copper Ore
 item.ore_tin.name=Tin Ore
@@ -12,10 +13,13 @@ item.ore_silver.name=Silver Ore
 item.ore_zinc.name=Zinc Ore
 item.ore_aluminum.name=Aluminum Ore
 item.ore_magnetite.name=Magnetite Ore
-item.coal.name=Coal
+
 item.workbench.name=Workbench
 item.smeltery.name=Smeltery
+
 item.drill_rusty.name=Rusty Drill
+
+item.armor_rusty.name=Rusty Armor Plate
 
 ## Inventories
 gui.inventory.player=Inventory
@@ -24,6 +28,7 @@ gui.inventory.smeltery=Smelting
 
 gui.tooltip.more=Hold "Shift" for more Info...
 gui.tooltip.equipment.drill=Equipment (Mining Drill)
+gui.tooltip.equipment.armor=Equipment (Armor Plate)
 
 ## Entities
 entity.player.name=Player
