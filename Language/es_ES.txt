@@ -1,10 +1,11 @@
 ## Metadata
 lang.name=Spanish / Español
-lang.authors=CypherNet
+lang.authors=CypherNet,Lmmb74
 
 ## Items (Names)
 item.dirt.name=Tierra
 item.stone.name=Piedra
+
 item.ore_iron.name=Mena de Hierro
 item.ore_copper.name=Mena de Cobre
 item.ore_tin.name=Mena de Estaño
@@ -12,17 +13,22 @@ item.ore_silver.name=Mena de Plata
 item.ore_zinc.name=Mena de Zinc
 item.ore_aluminum.name=Mena de Aluminio
 item.ore_magnetite.name=Mena de Magnetita
-item.coal.name=Carbón
-item.workbench.name=Banco de Trabajo
+
+item.workbench.name=Mesa de Creación
 item.smeltery.name=Taller de Fundición
+
+item.drill_rusty.name=Taladro Oxidado
+
+item.armor_rusty.name=Pechera Oxidada
 
 ## Inventories
 gui.inventory.player=Inventario
 gui.inventory.crafting=Creación
 gui.inventory.smeltery=Fundición
-gui.inventory.equipment=Equipamiento
-gui.slot.equipment.drill=Ranura para Equipo de perforación
-gui.tooltip.more=Mantenga presionado "Shift" para mas Info...
+
+gui.tooltip.more=Mantén "Shift" para más información...
+gui.tooltip.equipment.drill=Equipamiento (Taladro de Minería)
+gui.tooltip.equipment.armor=Equipamiento (Pechera)
 
 ## Entities
-entity.DroppedItem.name=Elemento arrojado
+entity.player.name=Jugador
