@@ -1,0 +1,29 @@
+# Arabic / العربية
+#
+# Authors: / الكتاب:
+# TSEngineer
+
+## Items (Names) / (المواضيع (أسماء
+item.generic_dirt.name=الأرض
+item.generic_stone.name=الحجر
+item.generic_ore_iron.name=خام الحديد
+item.generic_ore_copper.name=خام النحاس
+item.generic_ore_tin.name=خام القصدير
+item.generic_ore_silver.name=الفضة خام
+item.generic_ore_zinc.name=خام الزنك
+item.generic_ore_aluminum.name=خام الألومنيوم
+item.generic_ore_magnetite.name=المغنتيت خام
+item.generic_coal.name=الفحم
+item.generic_workbench.name=منضدة
+item.generic_smeltery.name=مسبك
+
+## Inventories / مخزونات
+gui.inventory.player=المخزون
+gui.inventory.crafting=إنشاء
+gui.inventory.smeltery=صهر
+gui.inventory.equipment=معدات
+gui.slot.equipment.drill=فتحة التدريبات
+gui.tooltip.more=عقد "Shift" للحصول على مزيد من المعلومات...
+
+## Entities / الكيان
+entity.DroppedItem.name=القيت
