@@ -1,0 +1,34 @@
+## Metadata
+lang.name=Polish / Polski
+lang.authors=MrDiamondPL
+
+## Items (Names)
+item.dirt.name=Ziemia
+item.stone.name=Kamien
+
+item.ore_iron.name=Ruda Zelaza
+item.ore_copper.name=Ruda Miedzi
+item.ore_tin.name=Ruda Cyny
+item.ore_silver.name=Ruda Srebra
+item.ore_zinc.name=Ruda Cynku
+item.ore_aluminum.name=Ruda Aluminium
+item.ore_magnetite.name=Ruda Magnetytu
+
+item.workbench.name=Stol Warsztatowy
+item.smeltery.name=Wytapiarka
+
+item.drill_rusty.name=Zardzewiale Wiertlo
+
+item.armor_rusty.name=Zardzewiala plyta zbroi
+
+## Inventories
+gui.inventory.player=Ekwipunek
+gui.inventory.crafting=Tworzenie
+gui.inventory.smeltery=Wytapianie
+
+gui.tooltip.more=Przytrzymaj "Shift" po wiecej informacji...
+gui.tooltip.equipment.drill=Ekwipunek (Wiertlo Wydobywcze)
+gui.tooltip.equipment.armor=Ekwipunek (Zbroja)
+
+## Entities
+entity.player.name=Gracz
