@@ -1,10 +1,11 @@
-## Metadata
+## Metadata / Метаданные
 lang.name=Russian / Русский
 lang.authors=SoSeDiK
 
 ## Items (Names) / Предметы (названия)
 item.dirt.name=Земля
 item.stone.name=Камень
+
 item.ore_iron.name=Железная руда
 item.ore_copper.name=Медная руда
 item.ore_tin.name=Оловянная руда
@@ -12,17 +13,22 @@ item.ore_silver.name=Серебряная руда
 item.ore_zinc.name=Цинковая руда
 item.ore_aluminum.name=Алюминиевая руда
 item.ore_magnetite.name=Магнетитовая руда
-item.coal.name=Уголь
+
 item.workbench.name=Верстак
 item.smeltery.name=Плавильня
+
+item.drill_rusty.name=Ржавое сверло
+
+item.armor_rusty.name=Ржавая броневая пластина
 
 ## Inventories / Инвентари
 gui.inventory.player=Инвентарь
 gui.inventory.crafting=Создание
 gui.inventory.smeltery=Выплавка
-gui.inventory.equipment=Снаряжение
-gui.slot.equipment.drill=Слот для дрели
-gui.tooltip.more=Удерживайте "Shift" для большей информации...
+
+gui.tooltip.more=Удерживайте "Shift" для дополнительной информации...
+gui.tooltip.equipment.drill=Снаряжение (сверло)
+gui.tooltip.equipment.armor=Снаряжение (броневая пластина)
 
 ## Entities / Сущности
-entity.DroppedItem.name=Брошенный предмет
+entity.player.name=Игрок
