@@ -1,0 +1,29 @@
+# Japanese / 日本語
+#
+# Authors: / 著者:
+# TSEngineer
+
+## Items (Names) / 科目名
+item.generic_dirt.name=地球
+item.generic_stone.name=石
+item.generic_ore_iron.name=鉄鉱石
+item.generic_ore_copper.name=銅鉱石
+item.generic_ore_tin.name=スズ鉱石
+item.generic_ore_silver.name=銀鉱石
+item.generic_ore_zinc.name=亜鉛鉱石
+item.generic_ore_aluminum.name=アルミニウム鉱
+item.generic_ore_magnetite.name=磁鉄鉱鉱床
+item.generic_coal.name=石炭
+item.generic_workbench.name=ワークベンチ
+item.generic_smeltery.name=鋳造
+
+## Inventories / たな卸資産
+gui.inventory.player=在庫
+gui.inventory.crafting=の作成
+gui.inventory.smeltery=精錬
+gui.inventory.equipment=設備
+gui.slot.equipment.drill=スロット訓練
+gui.tooltip.more="Shift"インフォメーション---
+
+## Entities / Entity
+entity.DroppedItem.name=スローされオブジェクト
