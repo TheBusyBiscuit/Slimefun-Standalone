@@ -1,10 +1,11 @@
-## Metadata
+## Metadata / Метадані
 lang.name=Ukrainian / Українська
 lang.authors=SoSeDiK
 
 ## Items (Names) / Предмети (назви)
 item.dirt.name=Земля
 item.stone.name=Камінь
+
 item.ore_iron.name=Залізна руда
 item.ore_copper.name=Мідна руда
 item.ore_tin.name=Олов'яна руда
@@ -12,17 +13,22 @@ item.ore_silver.name=Срібна руда
 item.ore_zinc.name=Цинкова руда
 item.ore_aluminum.name=Алюмінієва руда
 item.ore_magnetite.name=Магнетитова руда
-item.coal.name=Вугілля
+
 item.workbench.name=Верстак
 item.smeltery.name=Плавильня
+
+item.drill_rusty.name=Іржаве свердло
+
+item.armor_rusty.name=Іржава броньова пластина
 
 ## Inventories / Інвентарі
 gui.inventory.player=Інвентар
 gui.inventory.crafting=Майстрування
 gui.inventory.smeltery=Виплавка
-gui.inventory.equipment=Спорядження
-gui.slot.equipment.drill=Слот для дрилі
-gui.tooltip.more=Утримуйте "Shift" для більшої інформації...
+
+gui.tooltip.more=Утримуйте "Shift" для додаткової інформації...
+gui.tooltip.equipment.drill=Спорядження (свердло)
+gui.tooltip.equipment.armor=Спорядження (броньова пластина)
 
 ## Entities / Істоти
-entity.DroppedItem.name=Кинутий предмет
+entity.player.name=Гравець
