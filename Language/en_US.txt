@@ -21,6 +21,8 @@ item.drill_rusty.name=Rusty Drill
 
 item.armor_rusty.name=Rusty Armor Plate
 
+item.capacitor_rusty.name=Rusty Capacitor
+
 ## Inventories
 gui.inventory.player=Inventory
 gui.inventory.crafting=Crafting
@@ -29,6 +31,7 @@ gui.inventory.smeltery=Smelting
 gui.tooltip.more=Hold "Shift" for more Info...
 gui.tooltip.equipment.drill=Equipment (Mining Drill)
 gui.tooltip.equipment.armor=Equipment (Armor Plate)
+gui.tooltip.equipment.capacitor=Equipment (Capacitor)
 
 ## Entities
 entity.player.name=Player
