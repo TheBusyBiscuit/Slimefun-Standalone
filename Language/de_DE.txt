@@ -21,6 +21,8 @@ item.drill_rusty.name=Rostiger Bohrkopf
 
 item.armor_rusty.name=Rostige Rüstungsplatte
 
+item.capacitor_rusty.name=Rostiger Kondensator
+
 ## Inventories
 gui.inventory.player=Inventar
 gui.inventory.crafting=Werkbank
@@ -29,6 +31,7 @@ gui.inventory.smeltery=Schmelzofen
 gui.tooltip.more=Halte "Shift" für mehr Information...
 gui.tooltip.equipment.drill=Ausrüstung (Bohrer)
 gui.tooltip.equipment.armor=Ausrüstung (Rüstungsplatte)
+gui.tooltip.equipment.capacitor=Ausrüstung (Kondensator)
 
 ## Entities
 entity.player.name=Spieler
