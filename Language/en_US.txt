@@ -37,6 +37,3 @@ gui.tooltip.equipment.capacitor=Equipment (Capacitor)
 entity.player.name=Player
 
 ## Hotbar Messages
-info.player.mode.combat=Mode: Combat
-info.player.mode.mining=Mode: Mining
-info.player.mode.default=Mode: Default
