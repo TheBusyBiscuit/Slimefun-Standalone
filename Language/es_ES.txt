@@ -21,6 +21,8 @@ item.drill_rusty.name=Taladro Oxidado
 
 item.armor_rusty.name=Pechera Oxidada
 
+item.capacitor_rusty.name=Condensador Oxidado
+
 ## Inventories
 gui.inventory.player=Inventario
 gui.inventory.crafting=Creación
@@ -29,6 +31,9 @@ gui.inventory.smeltery=Fundición
 gui.tooltip.more=Mantén "Shift" para más información...
 gui.tooltip.equipment.drill=Equipamiento (Taladro de Minería)
 gui.tooltip.equipment.armor=Equipamiento (Pechera)
+gui.tooltip.equipment.capacitor=Equipamiento (Condensador)
 
 ## Entities
 entity.player.name=Jugador
+
+## Hotbar Messages
