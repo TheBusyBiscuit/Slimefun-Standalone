@@ -1,28 +1,39 @@
 ## Metadata
-lang.name=French / Français
-lang.authors=marinière
+lang.name=Francais (FR)
+lang.authors=Nouma_zer
 
 ## Items (Names)
 item.dirt.name=Terre
-item.stone.name=Pierre
-item.ore_iron.name=Minerai de fer
-item.ore_copper.name=Minerai de cuivre
-item.ore_tin.name=Minerai d'étain
-item.ore_silver.name=Minerai d'argent
-item.ore_zinc.name=Minerai de zinc
-item.ore_aluminum.name=Minerai d'aluminium
-item.ore_magnetite.name=Minerai de magnétite
-item.coal.name=Charbon
-item.workbench.name=Établi
+item.stone.name=Pierre taille
+
+item.ore_iron.name=Minerais de Fer
+item.ore_copper.name=Minerais de Cuivre
+item.ore_tin.name=Minerais d'Etain
+item.ore_silver.name=Minerais d'Argent
+item.ore_zinc.name=Minerais de Zinc
+item.ore_aluminum.name=Minerais d'Aluminium
+item.ore_magnetite.name=Minerais de Magnetite
+
+item.workbench.name=Etablis
 item.smeltery.name=Fonderie
+
+item.drill_rusty.name=Perceuse rouillee
+
+item.armor_rusty.name=Plaque d'armure rouillee
+
+item.capacitor_rusty.name=Condensateur rouille
 
 ## Inventories
 gui.inventory.player=Inventaire
 gui.inventory.crafting=Fabrication
-gui.inventory.smeltery=Fondre
-gui.inventory.equipment=Équipement
-gui.slot.equipment.drill=Emplacement pour perceuse
-gui.tooltip.more=Maintenir "Shift" pour plus d'informations...
+gui.inventory.smeltery=Fonte
+
+gui.tooltip.more=Maintenez "Shift" pour plus d'Infos...
+gui.tooltip.equipment.drill=Equipement (Perceuse de Minage)
+gui.tooltip.equipment.armor=Equipment (Plaque d'Armure)
+gui.tooltip.equipment.capacitor=Equipment (Condensateur)
 
 ## Entities
-entity.DroppedItem.name=Objet au sol
+entity.player.name=Joueur
+
+## Hotbar Messages
