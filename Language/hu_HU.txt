@@ -5,6 +5,7 @@ lang.authors=andris155
 ## Items (Names)
 item.dirt.name=Föld
 item.stone.name=Kő
+
 item.ore_iron.name=Vasérc
 item.ore_copper.name=Rézérc
 item.ore_tin.name=Ón Érc
@@ -12,17 +13,27 @@ item.ore_silver.name=Ezüstérc
 item.ore_zinc.name=Cinkérc
 item.ore_aluminum.name=Alumíniumérc
 item.ore_magnetite.name=Magnetitérc
-item.coal.name=Szén
+
 item.workbench.name=Barkácsasztal
 item.smeltery.name=Kohó
+
+item.drill_rusty.name=Rozsdás Fúró
+
+item.armor_rusty.name=Rozsdás Páncéllemez
+
+item.capacitor_rusty.name=Rozsdás Kondenzátor
 
 ## Inventories
 gui.inventory.player=Táska
 gui.inventory.crafting=Barkácsolás
 gui.inventory.smeltery=Olvasztás
-gui.inventory.equipment=Felszerelés
-gui.slot.equipment.drill=Fúrónyílás
-gui.tooltip.more=Tartsd lenyomva a "Shift"-t a további információkért ...
+
+gui.tooltip.more=Hold Tartsd lenyomva a "Shift"-et a további információkért...
+gui.tooltip.equipment.drill=Felszerelés (Bányászati Fúró)
+gui.tooltip.equipment.armor=Felszerelés (Páncéllemez)
+gui.tooltip.equipment.capacitor=Felszerelés (Kondenzátor)
 
 ## Entities
-entity.DroppedItem.name=Kidobott Tárgy
+entity.player.name=Játékos
+
+## Hotbar Messages
