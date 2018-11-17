@@ -24,9 +24,11 @@ item.armor_rusty.name=Rostige Rüstungsplatte
 item.capacitor_rusty.name=Rostiger Kondensator
 
 ## Inventories
-gui.inventory.player=Inventar
-gui.inventory.crafting=Werkbank
-gui.inventory.smeltery=Schmelzofen
+gui.inventory.player.name=Inventar
+gui.inventory.crafting.name=Werkbank
+gui.inventory.smeltery.name=Schmelzofen
+gui.slots.input=Input
+gui.slots.output=Output
 
 gui.tooltip.more=Halte "Shift" für mehr Information...
 gui.tooltip.equipment.drill=Ausrüstung (Bohrer)
