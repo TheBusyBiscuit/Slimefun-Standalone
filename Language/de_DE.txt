@@ -34,6 +34,7 @@ gui.tooltip.more=Halte "Shift" für mehr Information...
 gui.tooltip.equipment.drill=Ausrüstung (Bohrer)
 gui.tooltip.equipment.armor=Ausrüstung (Rüstungsplatte)
 gui.tooltip.equipment.capacitor=Ausrüstung (Kondensator)
+gui.tooltip.equipment.weapon=Ausrüstung (Waffe)
 
 ## Entities
 entity.player.name=Spieler
