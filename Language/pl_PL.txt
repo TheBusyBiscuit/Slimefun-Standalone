@@ -21,14 +21,20 @@ item.drill_rusty.name=Zardzewiale Wiertlo
 
 item.armor_rusty.name=Zardzewiala plyta zbroi
 
+item.capacitor_rusty.name=Zardzewialy Kondensator
+
 ## Inventories
 gui.inventory.player=Ekwipunek
 gui.inventory.crafting=Tworzenie
 gui.inventory.smeltery=Wytapianie
+gui.slots.input=Wejscie
+gui.slots.output=Wyjscie
 
 gui.tooltip.more=Przytrzymaj "Shift" po wiecej informacji...
-gui.tooltip.equipment.drill=Ekwipunek (Wiertlo Wydobywcze)
-gui.tooltip.equipment.armor=Ekwipunek (Zbroja)
+gui.tooltip.equipment.drill=Wyposazenie (Wiertlo Wydobywcze)
+gui.tooltip.equipment.armor=Wyposazenie (Zbroja)
+gui.tooltip.equipment.capacitor=Wyposazenie (Kondensator)
+gui.tooltip.equipment.weapon=Wyposazenie (Bron)
 
 ## Entities
 entity.player.name=Gracz
