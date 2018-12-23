@@ -30,11 +30,11 @@ gui.inventory.crafting.name=合成
 gui.inventory.smeltery.name=冶炼
 gui.slots.input=输入
 gui.slots.output=输出
-gui.tooltip.more=按住 "Shift" 以了解更多...
-gui.tooltip.equipment.drill=Equipment (采矿钻头)
-gui.tooltip.equipment.armor=Equipment (Armor Plate)
-gui.tooltip.equipment.capacitor=Equipment (电容)
-gui.tooltip.equipment.weapon=Equipment (武器)
+gui.tooltip.more=按住 "Shift" 以查看更多...
+gui.tooltip.equipment.drill=物品栏 (采矿钻头)
+gui.tooltip.equipment.armor=物品栏 (Armor Plate)
+gui.tooltip.equipment.capacitor=物品栏 (电容)
+gui.tooltip.equipment.weapon=物品栏 (武器)
 
 ## Entities
 entity.player.name=玩家
