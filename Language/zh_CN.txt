@@ -14,15 +14,27 @@ item.ore_aluminum.name=铝矿
 item.ore_magnetite.name=磁铁矿
 item.coal.name=煤炭
 item.workbench.name=工作台
-item.smeltery.name=冶炼厂
+item.smeltery.name=冶炼炉
+
+item.drill_rusty.name=生锈的钻头
+
+## I need to view it in the game to translate it more accurately.
+item.armor_rusty.name=生锈的 Armor Plate
+
+item.capacitor_rusty.name=生锈的电容
 
 ## Inventories
-gui.inventory.player=物品栏
-gui.inventory.crafting=合成
-gui.inventory.smeltery=冶炼
-gui.inventory.equipment=装备
 gui.slot.equipment.drill=钻槽
+gui.inventory.player.name=物品栏
+gui.inventory.crafting.name=合成
+gui.inventory.smeltery.name=冶炼
+gui.slots.input=输入
+gui.slots.output=输出
 gui.tooltip.more=按住 "Shift" 以了解更多...
+gui.tooltip.equipment.drill=Equipment (采矿钻头)
+gui.tooltip.equipment.armor=Equipment (Armor Plate)
+gui.tooltip.equipment.capacitor=Equipment (电容)
+gui.tooltip.equipment.weapon=Equipment (武器)
 
 ## Entities
-entity.DroppedItem.name=掉落的物品
+entity.player.name=玩家
