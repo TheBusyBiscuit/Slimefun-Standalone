@@ -21,14 +21,22 @@ item.drill_rusty.name=Ржавое сверло
 
 item.armor_rusty.name=Ржавая броневая пластина
 
+item.capacitor_rusty.name=Ржавый конденсатор
+
 ## Inventories / Инвентари
 gui.inventory.player=Инвентарь
 gui.inventory.crafting=Создание
 gui.inventory.smeltery=Выплавка
+gui.slots.input=Входной слот
+gui.slots.output=Выходной слот
 
 gui.tooltip.more=Удерживайте "Shift" для дополнительной информации...
 gui.tooltip.equipment.drill=Снаряжение (сверло)
 gui.tooltip.equipment.armor=Снаряжение (броневая пластина)
+gui.tooltip.equipment.capacitor=Снаряжение (конденсатор)
+gui.tooltip.equipment.weapon=Снаряжение (оружие)
 
 ## Entities / Сущности
 entity.player.name=Игрок
+
+## Hotbar Messages / Сообщения хотбара
