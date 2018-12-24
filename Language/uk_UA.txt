@@ -21,14 +21,22 @@ item.drill_rusty.name=Іржаве свердло
 
 item.armor_rusty.name=Іржава броньова пластина
 
+item.capacitor_rusty.name=Іржавий конденсатор
+
 ## Inventories / Інвентарі
 gui.inventory.player=Інвентар
 gui.inventory.crafting=Майстрування
 gui.inventory.smeltery=Виплавка
+gui.slots.input=Вхідний слот
+gui.slots.output=Вихідний слот
 
 gui.tooltip.more=Утримуйте "Shift" для додаткової інформації...
 gui.tooltip.equipment.drill=Спорядження (свердло)
 gui.tooltip.equipment.armor=Спорядження (броньова пластина)
+gui.tooltip.equipment.capacitor=Спорядження (конденсатор)
+gui.tooltip.equipment.weapon=Спорядження (зброя)
 
 ## Entities / Істоти
 entity.player.name=Гравець
+
+## Hotbar Messages / Повідомлення приладниці
