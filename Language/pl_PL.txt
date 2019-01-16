@@ -1,12 +1,12 @@
 ## Metadata
 lang.name=Polish / Polski
-lang.authors=MrDiamondPL
+lang.authors=MrDiamondPL,PrzemoVi
 
 ## Items (Names)
 item.dirt.name=Ziemia
-item.stone.name=Kamien
+item.stone.name=Kamień
 
-item.ore_iron.name=Ruda Zelaza
+item.ore_iron.name=Ruda Żelaza
 item.ore_copper.name=Ruda Miedzi
 item.ore_tin.name=Ruda Cyny
 item.ore_silver.name=Ruda Srebra
@@ -14,27 +14,27 @@ item.ore_zinc.name=Ruda Cynku
 item.ore_aluminum.name=Ruda Aluminium
 item.ore_magnetite.name=Ruda Magnetytu
 
-item.workbench.name=Stol Warsztatowy
+item.workbench.name=Stól Warsztatowy
 item.smeltery.name=Wytapiarka
 
-item.drill_rusty.name=Zardzewiale Wiertlo
+item.drill_rusty.name=Zardzewiałe Wiertło
 
-item.armor_rusty.name=Zardzewiala plyta zbroi
+item.armor_rusty.name=Zardzewiała płyta zbroi
 
-item.capacitor_rusty.name=Zardzewialy Kondensator
+item.capacitor_rusty.name=Zardzewiały Kondensator
 
 ## Inventories
 gui.inventory.player=Ekwipunek
 gui.inventory.crafting=Tworzenie
 gui.inventory.smeltery=Wytapianie
-gui.slots.input=Wejscie
-gui.slots.output=Wyjscie
+gui.slots.input=Wejście
+gui.slots.output=Wyjście
 
-gui.tooltip.more=Przytrzymaj "Shift" po wiecej informacji...
-gui.tooltip.equipment.drill=Wyposazenie (Wiertlo Wydobywcze)
-gui.tooltip.equipment.armor=Wyposazenie (Zbroja)
-gui.tooltip.equipment.capacitor=Wyposazenie (Kondensator)
-gui.tooltip.equipment.weapon=Wyposazenie (Bron)
+gui.tooltip.more=Przytrzymaj "Shift" po więcej informacji...
+gui.tooltip.equipment.drill=Wyposażenie (Wiertło Wydobywcze)
+gui.tooltip.equipment.armor=Wyposażenie (Zbroja)
+gui.tooltip.equipment.capacitor=Wyposażenie (Kondensator)
+gui.tooltip.equipment.weapon=Wyposażenie (Broń)
 
 ## Entities
 entity.player.name=Gracz
