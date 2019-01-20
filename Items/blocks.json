@@ -1,0 +1,12 @@
+{
+    "slimefun": {
+        "stone": {
+            "MaxStackSize": 128,
+            "block": {
+                "collider": true,
+                "hardness": 0.5,
+                "mining-level": 1
+            }
+        }
+    }
+}

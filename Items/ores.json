@@ -1,0 +1,32 @@
+{
+    "slimefun": {
+        "magnetite_ore": {
+            "MaxStackSize": 128,
+            "block": {
+                "collider": true,
+                "hardness": 4,
+                "mining-level": 2
+            },
+            "ore-gen": {
+                "height-min": 0.0,
+                "height-max": 6.5,
+                "frequency": 1,
+                "patch-size": 0.2
+            }
+        },
+        "iron_ore": {
+            "MaxStackSize": 128,
+            "block": {
+                "collider": true,
+                "hardness": 1,
+                "mining-level": 1
+            },
+            "ore-gen": {
+                "height-min": 10.0,
+                "height-max": 85.0,
+                "frequency": 1,
+                "patch-size": 0.6
+            }
+        }
+    }
+}
