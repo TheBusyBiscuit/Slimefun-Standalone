@@ -1,0 +1,13 @@
+{
+    "slimefun": {
+        "rusty_drill": {
+            "MaxStackSize": 1,
+            "tool": {
+                "default-gear": true,
+                "drill": {
+                    "mining-level": 1
+                }
+            }
+        }
+    }
+}

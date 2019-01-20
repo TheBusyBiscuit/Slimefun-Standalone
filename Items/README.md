@@ -35,5 +35,6 @@ int     | ore-gen.frequency        | Ores        | How frequent the ore can occu
 Type    | Name                     | Category    | Description
 ------- | ------------------------ | ----------- | -----------
 bool	| tool					   | Tools		 | States that this item is a tool
+bool    | tool.default-gear        | Tools       | Specification: This is a tool the player spawns with
 bool	| tool.drill			   | Tools		 | Specification: This is a drill
 bool	| tool.drill.mining-level  | Tools		 | Specifies the mining-level of this drill
