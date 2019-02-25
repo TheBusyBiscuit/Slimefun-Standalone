@@ -5,7 +5,8 @@
             "tool": {
                 "default-gear": true,
                 "drill": {
-                    "mining-level": 1
+                    "mining-level": 1,
+                    "mining-speed": 1.0
                 }
             }
         }

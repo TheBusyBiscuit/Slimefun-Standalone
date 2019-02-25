@@ -1,5 +1,8 @@
 # Documentation for all Item-Attributes
 
+These Attributes define how an Item is handled internally.
+Use this as a reference for modding.
+
 ## General Attributes
 
 Type    | Name                     | Category    | Description
@@ -37,4 +40,5 @@ Type    | Name                     | Category    | Description
 bool	| tool					   | Tools		 | States that this item is a tool
 bool    | tool.default-gear        | Tools       | Specification: This is a tool the player spawns with
 bool	| tool.drill			   | Tools		 | Specification: This is a drill
-bool	| tool.drill.mining-level  | Tools		 | Specifies the mining-level of this drill
+int	    | tool.drill.mining-level  | Tools		 | Specifies the mining-level of this drill
+float	| tool.drill.mining-speed  | Tools		 | Specifies the mining-speed of this drill

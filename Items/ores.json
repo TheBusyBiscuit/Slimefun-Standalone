@@ -4,7 +4,7 @@
             "MaxStackSize": 128,
             "block": {
                 "collider": true,
-                "hardness": 4,
+                "hardness": 4.0,
                 "mining-level": 2
             },
             "ore-gen": {
@@ -18,7 +18,7 @@
             "MaxStackSize": 128,
             "block": {
                 "collider": true,
-                "hardness": 1,
+                "hardness": 1.0,
                 "mining-level": 1
             },
             "ore-gen": {
