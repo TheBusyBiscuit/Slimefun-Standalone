@@ -1,0 +1,42 @@
+## Metadata
+lang.name=Turkish / Türkçe
+lang.authors=ajan_12
+
+## Items (Names)
+item.dirt.name=Toprak
+item.stone.name=Taş
+
+item.ore_iron.name=Demir Madeni
+item.ore_copper.name=Bakır Madeni
+item.ore_tin.name=Kalay Madeni
+item.ore_silver.name=Gümüş Madeni
+item.ore_zinc.name=Çinko Madeni
+item.ore_aluminum.name=Aluminyum Madeni
+item.ore_magnetite.name=Manyetit Madeni
+
+item.workbench.name=Çalışma Masası
+item.smeltery.name=Fırın
+
+item.drill_rusty.name=Paslı Matkap
+
+item.armor_rusty.name=Paalı Zırh Levhası
+
+item.capacitor_rusty.name=Paslı Kapasitör
+
+## Inventories
+gui.inventory.player.name=Envanter
+gui.inventory.crafting.name=Üretim
+gui.inventory.smeltery.name=Eritim
+gui.slots.input=Giriş
+gui.slots.output=Çıkış
+
+gui.tooltip.more=Daha fazla bilgi için "Shift"e basılı tut...
+gui.tooltip.equipment.drill=Ekipman (Kazı Matkabı)
+gui.tooltip.equipment.armor=Ekipman (Zırh Plakası)
+gui.tooltip.equipment.capacitor=Ekipman (Kapasitör)
+gui.tooltip.equipment.weapon=Ekipman (Silah)
+
+## Entities
+entity.player.name=Oyuncu
+
+## Hotbar Messages
